@@ -1,4 +1,4 @@
-## **Diseño Cafeteria** :crossed_flags: :triangular_flag_on_post:
+## **Diseño Cafeteria** :point_right: :coffee:
 
 ---
 
