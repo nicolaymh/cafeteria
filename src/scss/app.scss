@@ -1,0 +1,9 @@
+// Forma antigua de llamar el partial file
+// @import 'header/header';
+
+@use 'base';
+@use 'header';
+@use 'footer';
+@use 'inicio';
+@use 'internas';
+@use 'utilidades';
